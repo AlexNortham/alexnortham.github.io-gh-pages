@@ -1,0 +1,37 @@
+.spacer {
+    height: 10px;
+}
+
+body {
+    background-color: black;
+    font-family: 'Dongle', sans-serif;
+    font-size: 32px;
+    color: white;
+}
+
+.container{
+    border-color: white;
+    border-style: solid;
+    border-radius: 25px;
+    color: white;
+}
+
+.noBottomBorder{
+    border-bottom-style: none;
+}
+
+.font32px{
+    font-size: 32px;
+}
+
+.textSpacing{
+    padding: 10px;
+}
+
+.bigTextSpacing{
+    padding: 50px;
+}
+
+.whiteText{
+    color: white;
+}
